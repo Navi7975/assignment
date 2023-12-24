@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 15px;
+  padding: 5px;
 }
 
 .navbar ul {
@@ -82,7 +82,7 @@ p {
 #main-page-image {
   margin-top: 0;
   width: 630px;
-  height: 660px;
+  height: 630px;
   top: 0;
   left: 0;
 }
